@@ -1,0 +1,5 @@
+environments:
+  COMMIT:
+    pipelines:
+      - yamlpipe1
+      - yaml-example
