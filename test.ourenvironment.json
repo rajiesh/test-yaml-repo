@@ -1,4 +1,4 @@
 { "name" : "test",
-"agents" : ["17dc4ab0-1fa2-4a7e-8898-0ef4bda572db","5ff37b62-4772-4dae-b63b-1644d7911949"],
+"agents" : ["17dc4ab0-1fa2-4a7e-8898-0ef4bda572db"],
  "environment_variables": [{"name": "foo", "value": "bar"}]
 }
